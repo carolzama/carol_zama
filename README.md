@@ -8,7 +8,7 @@
   
 - 🤔 I’m looking for help with Large Language Models in the area of news articles 'cause maybe there isn't a lot.
   
-- 💬 Ask me about Machine Learning and Artificial Inteligence or Python, I'm very appasionate about this technology's areas.
+- 💬 Ask me about Machine Learning and Artificial Intelligence or Python, I'm very appasionate about this technology's areas.
   
 - 📫 How to reach me: DM me on [LinkedIn](www.linkedin.com/in/carol-zapata)
   
