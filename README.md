@@ -16,4 +16,30 @@ Here are some ideas to get you started:
 
 -->
 
-# Markdown
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+
+# Estilos de Texto
+**Palabras en negrita**
+
+*Palabras en cursiva*
+
+~~Este texto está erróneo~~
+
+Mi primer línea de código en Python:
+
+```
+print('Hola mundo!')
+```
+
+### Listas
+
+- Javascript
+* Python
++ Kotlin
+
+
+### Links:
+
+El Mardown lo aprendí en [Tecnolochicas](https://tecnolochicas.mx/)
