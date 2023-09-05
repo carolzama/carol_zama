@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a project about **Natural Language Processing (NLP)** where I'll develope a tool to generate news. 📰
   
-- 🌱 I’m currently learning HTML, CSS and Javascript for **Front End** with [Tecnolochicas](https://tecnolochicas.mx/) 💜 to create an interface for this tool, and also the **basics of NLP**.
+- 🌱 I’m currently learning HTML, CSS and JavaScript for **Front End** with [Tecnolochicas](https://tecnolochicas.mx/) 💜 to create an interface for this tool, and also the **basics of NLP**.
   
 - 👯 I’m looking to collaborate on some other projects that will help me to develop more acknowledge in this area of Artificial Intelligence.
   
@@ -16,6 +16,8 @@
   
 - ⚡ Fun fact: I don't like strawberries 🍓
 
+
+<img src="{[BadgeURLHere](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)}" />
 
 <!--
 
